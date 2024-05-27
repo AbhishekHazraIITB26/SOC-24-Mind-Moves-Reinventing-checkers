@@ -20,12 +20,6 @@ For basic Python Tutorials refer to the links below -
 - [**Quick video tutorial by Mosh**](https://www.youtube.com/watch?v=kqtD5dpn9C8) or if you feel like it, you can watch the [complete tutorial](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
 - [**W3 Schools: Python**](https://www.w3schools.com/python/)
 - [**Another YT playlist**](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm)
-### Checkers
-Learn Checkers:
-https://youtu.be/ScKIdStgAfU?si=7sSjqA6M3Ay3Cza2
-
-Try playing against a computer at: https://www.247checkers.com/
-(will he helpful when implementing strategies in your model)
 
 ### Jupyter Notebooks
 
@@ -35,6 +29,12 @@ Jupyter notebooks allow you to divide your code into multiple cells that you can
 
 For this course, you will be using [**Google Colab**](https://colab.google/) to run your notebooks on the cloud. Ensure that you have a Gmail account to use it.
 
+## Checkers
+Learn Checkers:
+https://youtu.be/ScKIdStgAfU?si=7sSjqA6M3Ay3Cza2
+
+Try playing against a computer at: https://www.247checkers.com/
+(will he helpful when implementing strategies in your model)
 ## NumPy Basics
 
 NumPy (Numerical Python) is a linear algebra library in Python. It is a very important library that many popular libraries for AI/ML and data science (like Mat−plotlib, SciPy) rely on.
