@@ -9,7 +9,6 @@ Below you will find links to various online resources to help you with this week
 - [Python Basics](#python-basics)
   - [Jupyter Notebooks](#jupyter-notebooks)
 - [NumPy Basics](#numpy-basics)
-  - [Optional Assignment](#optional-assignment)
 - [Neural Networks](#neural-networks)
 - [Pytorch](#pytorch)
 
