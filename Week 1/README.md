@@ -12,7 +12,6 @@ Below you will find links to various online resources to help you with this week
   - [Optional Assignment](#optional-assignment)
 - [Neural Networks](#neural-networks)
 - [Pytorch](#pytorch)
-- [Assignment](#assignment)
 
 ## Python Basics
 
